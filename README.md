@@ -1,8 +1,6 @@
 <body>
 <header>
  <h1 align="center">I'm Erick Nathan!</h1>
-
- ##
  
  <a href="https://github.com/rcknathan">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rcknathan&show_icons=true&theme=radical"/>
