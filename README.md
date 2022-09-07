@@ -21,6 +21,9 @@
 <a href="mailto:ericknathan.dev@gmail.com">
 <image src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+<a href="https://t.me/rcknathan">
+<image src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
  </footer>
  
  </header>
