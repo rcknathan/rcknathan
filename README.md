@@ -17,7 +17,7 @@ Software Developer focused on building real-world solutions.
 
 ## 📌 Featured Projects
 
-### 🌐 Task Manager App
+### 🌐 <a href='https://github.com/rcknathan/task-manager-fullstack'>Task Manager App</a>
 
 Full-stack application with authentication and task management (CRUD), built with React, Node.js, and PostgreSQL.
 
