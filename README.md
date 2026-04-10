@@ -21,10 +21,6 @@ Software Developer focused on building real-world solutions.
 
 Full-stack application with authentication and task management (CRUD), built with React, Node.js, and PostgreSQL.
 
-### 🧠 AI Lunar Mission (Artemis II Inspired)  
-
-An AI-driven simulation inspired by NASA's Artemis II mission, where an agent learns to control a spacecraft, optimize trajectories, and safely return to Earth using physics-based modeling.
-
 ## 📈 Current Focus
 
 * Building real-world projects
