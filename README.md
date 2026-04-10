@@ -21,10 +21,6 @@ Software Developer focused on building real-world solutions.
 
 Full-stack application with authentication and task management (CRUD), built with React, Node.js, and PostgreSQL.
 
-### 🎨 React Dashboard UI
-
-Modern and responsive dashboard with charts, filters, and dark mode, focused on clean UI/UX using React.
-
 ### 🤖 Email Spam Detector
 
 Machine Learning API that classifies messages as spam or not using Python, scikit-learn, and FastAPI.
