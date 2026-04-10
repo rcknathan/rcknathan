@@ -21,13 +21,9 @@ Software Developer focused on building real-world solutions.
 
 Full-stack application with authentication and task management (CRUD), built with React, Node.js, and PostgreSQL.
 
-### 🤖 Email Spam Detector
+### 🧠 AI Lunar Mission (Artemis II Inspired)  
 
-Machine Learning API that classifies messages as spam or not using Python, scikit-learn, and FastAPI.
-
-### ⚙️ Job Scraper Automation
-
-Automation tool that collects job listings, filters them, and sends notifications using Python and web scraping.
+An AI-driven simulation inspired by NASA's Artemis II mission, where an agent learns to control a spacecraft, optimize trajectories, and safely return to Earth using physics-based modeling.
 
 ## 📈 Current Focus
 
