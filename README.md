@@ -21,6 +21,9 @@ Software Developer focused on building real-world solutions.
 
 Full-stack application with authentication and task management (CRUD), built with React, Node.js, and PostgreSQL.
 
+### 🤖 <a href=''>Snake AI (Deep Reinforcement Learning)</a>
+Multi-agent Snake environment trained with Dueling Double DQN, featuring real-time training, replay system, and performance tracking using PyTorch and Pygame.
+
 ## 📈 Current Focus
 
 * Building real-world projects
